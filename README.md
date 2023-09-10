@@ -1,1 +1,3 @@
-# gerador-de-numero-para-mega-sena
+# Gerador de número para mega-sena
+
+Neste repositório tem um projeto back-end bem básico em C, que desenvolvi na faculdade para treinar a sintaxe de C e aperfeiçoar a minha lógica de programação...
